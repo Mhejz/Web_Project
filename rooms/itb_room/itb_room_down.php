@@ -57,7 +57,7 @@
     <!-- BOOTSTRAP JS -->
     <link rel="stylesheet" href="../assets/js/bootstrap.min.js">
     <!-- PLUGINS JS -->
-    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    
     <!-- CUSTOM JS -->
     <script>
         $(document).ready(function () {
