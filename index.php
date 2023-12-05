@@ -6,7 +6,7 @@
     <?php include('include/header.php')?>
     <!-- BOOTSTRAP -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <title>Login Page</title>
+    
 </head>
 <body>
     <br>
