@@ -4,9 +4,10 @@
 <html lang="en">
 <head>
     <?php include('include/header.php')?>
-    <!-- BOOTSTRAP -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    
+    <!-- BOOTSTRAP 6 CSS -->
+    <?php include('include/page_header.php')?>
+    <!-- CUSTOM CSS -->
+    <style></style>
 </head>
 <body>
     <br>
@@ -39,7 +40,8 @@
         </div>
     </div>
     <!-- BOOTSTRAP JS -->
-    <link rel="stylesheet" href="assets/js/bootstrap.min.js">
+    <?php include('include/page_js.php')?>
+
     <!-- CUSTOM JS -->
     <script></script>
 </body>
